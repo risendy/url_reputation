@@ -1,0 +1,30 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 120px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.submit_button{
+	margin-top:15px;
+}
+#result_container {
+	font-size: 150%;
+	display:none;
+}
+.excellentTint {
+	color:green;
+}
+.goodTint {
+	color:#7cc615;
+}
+.unsatisfactoryTint {
+	color:#fdb807;
+}
+.poorTint {
+	color:#eb1c07;
+}
+.veryPoorTint {
+	color:#ba1100;
+}
